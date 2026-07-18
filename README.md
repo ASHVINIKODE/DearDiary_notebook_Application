@@ -6,6 +6,9 @@
 Dear Diary is your beautifully crafted digital space for capturing thoughts, emotions, dreams, and everyday moments. Designed with elegance and simplicity in mind, this minimalist journaling app lets you document your inner world without distractions. Whether it’s your daily reflections, personal goals, random ideas, or heartfelt notes — Dear Diary keeps it safe, organized, and private.
 ---
 
+
+![Dear Diary App](image/image.png)
+
 ## ✨ Features
 
 - 🖋️ **Create, Edit & Delete Notes**  
