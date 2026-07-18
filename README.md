@@ -7,7 +7,7 @@ Dear Diary is your beautifully crafted digital space for capturing thoughts, emo
 ---
 
 
-![Dear Diary App](image/image.png)
+![Dear Diary App](image/image.jpeg)
 
 ## ✨ Features
 
